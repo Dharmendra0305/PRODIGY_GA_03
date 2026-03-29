@@ -11,7 +11,7 @@ This project implements a statistical text generation algorithm using Markov Cha
 
 *- Here’s the main interface of the Markov Chain Text Generator:*
 
-![img]()
+![img](https://github.com/Dharmendra0305/PRODIGY_GA_03/blob/788f55ab281cea21727f88493967d91380bc1ec9/1.png)
 
 ## ✨ Features
 * **Order-2 Markov Chain:** Uses word pairs for coherent text generation.
@@ -51,7 +51,7 @@ This project implements a statistical text generation algorithm using Markov Cha
 
 *- Example:*
 
-![img]()
+![img](https://github.com/Dharmendra0305/PRODIGY_GA_03/blob/788f55ab281cea21727f88493967d91380bc1ec9/2.png)
 
 ## 🤝 Contribution Guidelines
 Contributions are welcome! If you'd like to improve the code or add features:
